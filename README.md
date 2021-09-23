@@ -1,7 +1,7 @@
 **Disney page, building with react**
 
 
-**Divide and Conquer the hole application in single parts**
+**Divide and Conquer the application**
 
 
 TODO
