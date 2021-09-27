@@ -48,8 +48,7 @@ const Wrap = styled.div`
   }
 
   &:hover {
-    transform: scale(1.05);
-    border-color: rgba(249, 249, 249, 0.8);
+
     transform: scale(1.05);
     border-color: rgba(249, 249, 249, 0.8);
   }
